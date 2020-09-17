@@ -572,6 +572,7 @@ CREATE TABLE public.country (
 
 ALTER TABLE public.country OWNER TO postgres;
 
+
 --
 -- Name: customer_list; Type: VIEW; Schema: public; Owner: postgres
 --
